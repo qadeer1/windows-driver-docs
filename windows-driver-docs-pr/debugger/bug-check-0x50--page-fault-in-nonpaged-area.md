@@ -93,6 +93,7 @@ Run the Windows Memory Diagnostics tool, to test the memory. Click the Start but
 **Resolving a corrupted NTFS volume problem:** Run **Chkdsk /f /r** to detect and repair disk errors. You must restart the system before the disk scan begins on a system partition. Contact the manufacture of the hard driver system to locate any diagnostic tools that they provide for the hard drive sub system.
 
 For general blue screen troubleshooting information, see [**Blue Screen Data**](blue-screen-data.md).
+PAGE_FAULT_IN_NONPAGED_AREA have another name which is Blue Screen of Death and short name is (BSOD). It happened when windows try to get a critical chunk of data in the system’s memory but unfortunately it not get success. Then reboots protects computer from more damage. When I got this problem then https://appuals.com/fix-page_fault_in_nonpaged_area/ help me to get the solution.
 
 Remarks
 -------
